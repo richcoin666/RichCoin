@@ -1,1 +1,1 @@
-RichCoin Is Rich
+RichCoin is designed to make you rich!
