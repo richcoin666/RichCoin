@@ -1,1 +1,1 @@
-Rich Coin Is Rich
+RichCoin Is Rich
